@@ -1,3 +1,3 @@
 # hello_world
 for bioinformatics class
-a bit about myself- i have a dog and have a job interview next week
+a bit about myself- i have a dog and i am really bad at coding but trying to learn python
